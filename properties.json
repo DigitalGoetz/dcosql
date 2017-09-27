@@ -1,0 +1,4 @@
+{
+    "data-directory" : "/database",
+    "binary-directory" : "/usr/lib/postgresql/9.6/bin"
+}

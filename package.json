@@ -1,0 +1,16 @@
+{
+  "name": "dcosql",
+  "version": "0.0.1",
+  "description": "PostgreSQL for DC/OS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodejs src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael.goetz@altamiracorp.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "hapi": "^16.6.2"
+  }
+}
